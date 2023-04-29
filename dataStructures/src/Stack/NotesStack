@@ -1,0 +1,6 @@
+Stack is an ADT(Abstract Data type) 
+Stack is LIFO(Last In First Out)
+Insertion and Deletion will be done only from top of stack!
+Application of Stack: Recursion(All recursive calls are stored in CallStack)
+push(),pop(),top(),size(),isEmpty()
+
